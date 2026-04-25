@@ -409,6 +409,7 @@ GDAL/OpenCV          ██                  5%
 ## 📧 联系方式
 
 如有问题或建议，请通过飞书联系。
+<img width="686" height="840" alt="image" src="https://github.com/user-attachments/assets/8a2f57c4-2d72-49cd-9dfd-07d9363edcd6" />
 
 ---
 
